@@ -1,0 +1,102 @@
+.page
+{
+width:1050px;
+height:auto;
+background-repeat:no-repeat;
+}
+
+
+.headerpart
+{
+width:1040px;
+height:464px;
+margin-top:5px;
+background-image:url('image/logo.png');
+background-repeat:no-repeat;
+}
+
+
+.linkspart
+{
+width:1040px;
+height:25px;
+margin-top:5px;
+background-color:rgb(12,100,198);
+}
+.linkspart a
+{
+color:rgb(245,246,251);
+text-decoration:none;
+}
+.linkspart a:hover
+{
+background-color:rgb(245,246,251);
+color:rgb(12,100,198);
+}
+.bodypart
+{
+width:1040px;
+height:800px;
+background-image:url('image/mtech3.jpg');
+margin-top:5px;
+}
+.bodypart .imagepart
+{
+width:730px;
+height:400px;
+margin-top:5px;
+background-image:url('image/faculties.jpeg');
+background-repeat:no-repeat;
+display:inline-block;
+}
+
+.bodypart .newspart
+{
+width:300px;
+height:600px;
+background-image:url('image/body Images.png');
+margin-top:5px;
+margin-right:5px;
+float:right;
+}
+
+
+.bodypart .newspart h2
+{
+color:green;
+background-image:url('image/sbackground4.jpg');
+}
+.bodypart .newspart .news
+{
+width:285px;
+height:525px;
+background-image:url('image/sbackground4.jpg');
+margin-left:5px;
+}
+.bodypart .newspart .news h3
+{
+color:orangered;
+}
+.bodypart h1
+{
+color:blue;
+text-align:center;
+}
+.footerpart
+{
+width:1040px;
+height:250px;
+background-image:url('image/footer.jpg');
+background-repeat:no-repeat;
+}
+.footerpart h3
+{
+color:red;
+}
+.footerpart p
+{
+color:white;
+}
+
+
+
